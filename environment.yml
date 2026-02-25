@@ -1,0 +1,8 @@
+name: pid_package
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - awkward
+  - xgboost>=3.0.0
+  - uproot
